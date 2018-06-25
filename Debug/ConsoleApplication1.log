@@ -1,3 +1,2 @@
 ﻿  ConsoleApplication1.cpp
-c:\users\thedushn\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(58): warning C4018: '<=': signed/unsigned mismatch
   ConsoleApplication1.vcxproj -> C:\Users\thedushn\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
